@@ -1,7 +1,7 @@
 [![Google Scraping API (1)](https://www.scrapingdog.com/wp-content/uploads/2025/05/SERP-API-2.png)](https://www.scrapingdog.com/amazon-scraper-api/) 
 
 
-# 🔍 Scrapingdog Google Search API – Effortless SERP Scraping
+# 🛍️ Amazon Scraper API – Effortless Amazon Scraping
 
 Scrapingdog's [Amazon Scraper API](https://www.scrapingdog.com/amazon-scraper-api/) lets you scrape real-time product from Amazon data with ease — no proxies, CAPTCHAs, or browsers to manage.
 
